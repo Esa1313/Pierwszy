@@ -1,0 +1,2 @@
+from kalkulator_e1 import liczydlo
+liczydlo.moje_menu()

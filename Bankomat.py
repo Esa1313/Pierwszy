@@ -57,10 +57,10 @@ while choice != "q":
                 tytyl2="Saldo: "
             else:
                 tytul1="Wypłacone: "
-                tytyl2="Saldo po operacji: "
+                tytul2="Saldo po operacji: "
             print(tytul1, end=" ")
             print(odejmowanie)
-            print(tytyl2, end=" ")
+            print(tytul2, end=" ")
             print(b1.ile_zostalo())
 
     # wpłata

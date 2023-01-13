@@ -54,7 +54,7 @@ while choice != "q":
         if respose=="t":
             if odejmowanie>saldo:
                 tytul1="Zadeklarowane do wypłaty: "
-                tytyl2="Saldo: "
+                tytul2="Saldo: "
             else:
                 tytul1="Wypłacone: "
                 tytul2="Saldo po operacji: "
